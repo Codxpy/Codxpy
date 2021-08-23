@@ -6,7 +6,7 @@
                     use this code:
                                   import webbrowser as web
                                   web.open('https://www.instagram.com/codex_python/')
-print('Thank you Reading')
+print('Thank you for Reading')
 <!---
 Codxpy/Codxpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
